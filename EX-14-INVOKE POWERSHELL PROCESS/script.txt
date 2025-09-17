@@ -1,0 +1,2 @@
+new-item -path . -name "rit.txt" -itemtype "file" -value "Rajalakshmi Institute of Technology"
+new-item -path . -name "rec.txt" -itemtype "file" -value "Rajalakshmi Engineering College"
